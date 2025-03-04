@@ -1,6 +1,6 @@
 # DataGuardian AI - Company Overview
 
-We are a leading provider of intelligent data security and governance solutions, specializing in:
+We are a leading provider of intelligent data security, specializing in:
 
 Core Offerings:
 1. Automated Data Classification & Protection
